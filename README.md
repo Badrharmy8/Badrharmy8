@@ -62,6 +62,15 @@ Analyzed HR data using SQL and created Excel dashboards to explore:
 - 💼 LinkedIn: www.linkedin.com/in/badr-ibrahim
 
 ---
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Badrharmy8&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Badrharmy8&layout=compact&theme=tokyonight)
+
+---
 
 “Without data, you're just another person with an opinion.” – W. Edwards Deming
 
