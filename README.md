@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Badr Ibrahim. 👋</h1>
 
-🎓 I'm a **Data Analyst** with hands-on experience in **SQL**, **Excel**, and dashboard reporting.  
-🚀 Currently expanding my skills in **Data Science** – diving into Python, Machine Learning, and Data Visualization.
+🎓 I'm a **Data Analyst** with hands-on experience in **SQL**, **Excel**, and **Python (NumPy, Pandas, Matplotlib)**.  
+🚀 Currently expanding my skills in **Data Science** – diving into  Machine Learning, and Data Visualization.
 
 ---
 ## 💼 My Background
@@ -51,7 +51,6 @@ Analyzed HR data using SQL and created Excel dashboards to explore:
 
 ## 📈 Currently Learning
 
-- Python for Data Science (NumPy, Pandas, Matplotlib).
 - Power BI.
 - Descriptive Statistics.
 
