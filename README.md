@@ -49,11 +49,12 @@ Analyzed HR data using SQL and created Excel dashboards to explore:
 
 ---
 ### 🌍 Freelancer Data Analysis & Dashboard 
-Analyzed global freelancer data focusing on skills, languages, experience, hourly rates, and activity status. Developed an Excel dashboard to visualize key insights such as freelancer distribution, average rates by country and skill, client satisfaction, and gender statistics.
+Analyzed global freelancer data focusing on skills, languages, experience, hourly rates, and activity status. 
+Developed an Excel dashboard to visualize key insights such as freelancer distribution, average rates by country and skill, client satisfaction, and gender statistics.
 Tools Used:
-Data cleaning with Python (Pandas).
-Data analysis using SQL.
-Visualization through Excel dashboards.
+- Data cleaning with Python (Pandas).
+- Data analysis using SQL.
+- Visualization through Excel dashboards.
 
 👉 [View Project](https://github.com/Badrharmy8/freelancers_analysis)
 
