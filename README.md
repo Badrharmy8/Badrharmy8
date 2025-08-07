@@ -26,6 +26,8 @@ Exploratory Data Analysis (EDA) on the Titanic dataset to understand survival fa
 
 👉 [View Project](https://github.com/Badrharmy8/Titanic-Survival-Analysis)
 
+---
+
 ### 🌍 Freelancer Data Analysis & Dashboard 
 Analyzed global freelancer data focusing on skills, languages, experience, hourly rates, and activity status. 
 Developed an Excel dashboard to visualize key insights such as freelancer distribution, average rates by country and skill, client satisfaction, and gender statistics.
