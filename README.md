@@ -1,26 +1,42 @@
 <h1 align="center">Hi, I'm Badr Ibrahim. 👋</h1>
 
-🎓 I'm a **Data Analyst** with hands-on experience in **SQL**, **Excel**, and **Python (NumPy, Pandas, Matplotlib)**.  
-🚀 Currently expanding my skills in **Data Science**.
+🎓 I'm a **Data Analyst** with hands-on experience in **SQL**, **Excel** , **Power BI**, and **Python (NumPy, Pandas, Matplotlib)**.  
+🚀 Currently expanding my skills in **Data Science** and **Machine Learning**.
 
 ---
 ## 💼 My Background
 
 I started my data journey through real-world data analysis projects using Microsoft SQL Server, Python and Excel.  
-I'm passionate about turning raw data into actionable business insights – whether it's hotel revenue, HR trends, or music sales!
 
 ---
 
 ## 🧠 Technical Skills
 
-- 📊 **Data Analysis:** SQL (T-SQL), Excel (Dashboards, Pivot Tables) , Python(Matplotlib , Seaborn)
+- 📊 **Data Analysis:** SQL (T-SQL), Excel (Dashboards, Pivot Tables) , Python(Matplotlib , Seaborn , Pandas)
 - 🗂️ **Data Cleaning:** SQL , Python (Pandas)
-- 📈 **Visualization:** Excel Dashboards, Power BI (learning)
-- ⚙️ **Tools:** Microsoft SQL Server , Python , Excel, Git, GitHub
+- 📈 **Visualization:** Excel Dashboards, Power BI.
+- ⚙️ **Tools:** Microsoft SQL Server , Python , Excel, Power BI, Git, GitHub
 
 ---
 
 ## 📌 Projects
+
+### 🚢 Titanic Survival Analysis  
+Exploratory Data Analysis (EDA) on the Titanic dataset to understand survival factors such as age, gender, passenger class, and family status.
+
+👉 [View Project](https://github.com/Badrharmy8/Titanic-Survival-Analysis)
+
+### 🌍 Freelancer Data Analysis & Dashboard 
+Analyzed global freelancer data focusing on skills, languages, experience, hourly rates, and activity status. 
+Developed an Excel dashboard to visualize key insights such as freelancer distribution, average rates by country and skill, client satisfaction, and gender statistics.
+Tools Used:
+- Data cleaning with Python (Pandas).
+- Data analysis using SQL.
+- Visualization through Excel dashboards.
+
+👉 [View Project](https://github.com/Badrharmy8/freelancers_analysis)
+
+---
 
 ### 🏨 Hotel Revenue Analysis (SQL Server)
 Analyzed multi-year hotel booking data to answer 10+ business questions like:
@@ -48,22 +64,11 @@ Analyzed HR data using SQL and created Excel dashboards to explore:
 👉 [View Project](https://github.com/Badrharmy8/Employees_Analysis)
 
 ---
-### 🌍 Freelancer Data Analysis & Dashboard 
-Analyzed global freelancer data focusing on skills, languages, experience, hourly rates, and activity status. 
-Developed an Excel dashboard to visualize key insights such as freelancer distribution, average rates by country and skill, client satisfaction, and gender statistics.
-Tools Used:
-- Data cleaning with Python (Pandas).
-- Data analysis using SQL.
-- Visualization through Excel dashboards.
-
-👉 [View Project](https://github.com/Badrharmy8/freelancers_analysis)
-
----
 
 ## 📈 Currently Learning
 
-- Power BI.
-- Descriptive Statistics.
+- Machine Learning.
+- Mathematics , Statistics and Calculus.
 ---
 
 ### 📫 Let's Connect:
