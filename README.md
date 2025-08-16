@@ -21,6 +21,20 @@ I started my data journey through real-world data analysis projects using Micros
 
 ## 📌 Projects
 
+### 📊 Salaries in 2025 - Data Analytics Project
+This project analyzes expected salary trends in 2025 using a survey-based dataset. The goal is to extract insights on roles, companies, work types, and countries offering the best salaries and opportunities, using Python for data cleaning and Power BI for interactive dashboards.
+
+👉 [View Project](https://github.com/Badrharmy8/Salaries_in_2025/blob/main/README.md)
+
+---
+
+### 🧠 Obesity Data Analysis
+This project focuses on analyzing obesity levels based on various lifestyle and demographic factors. The dataset includes information such as gender, age, weight, height, family history of overweight, and other behavioral variables.
+
+👉 [View Project](https://github.com/Badrharmy8/Obesity_Risk_Analysis)
+
+---
+
 ### 🚢 Titanic Survival Analysis  
 Exploratory Data Analysis (EDA) on the Titanic dataset to understand survival factors such as age, gender, passenger class, and family status.
 
